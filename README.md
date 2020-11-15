@@ -14,7 +14,7 @@ May be some adaptations are necessary. See *config.py*
 ### Usage :
   
 
- 1. Fisrt launch **rigctld** with parameters corresponding to your rig and<u> make sure your analog rig can be driven</u> :
+ 1. First launch **rigctld** with parameters corresponding to your rig and<u> make sure your analog rig can be driven</u> :
 
     Example for ts590 on default port 4532 using /dev/usb0 :  `rigctld -m 231 -r /dev/usb0`
 
