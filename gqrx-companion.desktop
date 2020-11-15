@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=gqrx-companion
+Exec=./gqrx-companion.py
+Icon=/home/philippe/Documents/synchro-iut/er/er2021/radio/gqrx-companion4/icon-radio.png
+Terminal=false 
+Type=Application
